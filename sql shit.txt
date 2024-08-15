@@ -1,0 +1,3 @@
+create table tb_curso (id int PRIMARY KEY, curso varchar(30), horas int(3), id_professor int(3))
+
+insert into tb_curso (id, curso, horas, id_professor) VALUES (x, 'x', x, x)
